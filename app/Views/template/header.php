@@ -14,7 +14,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="menu col">
-                <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #abdfdf;">
+                <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #8B858B;">
                     <a class="navbar-brand" href="#">Loja de Veículos</a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Alterna navegação">
                         <span class="navbar-toggler-icon"></span>

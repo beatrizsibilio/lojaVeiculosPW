@@ -1,25 +1,25 @@
 <div class="container">
     <div class="row">
-        <div class="col">
-            <h1>Faça seu cadastro!</h1>
+        <div class="col-8 offset-2">
+            <h1 class="titulo">Faça seu cadastro!</h1>
         </div>
     </div>
     <div class="formulario row">
-        <div class="col">
+        <div class="col-8 offset-2">
             <form>
                 <div class="form-group">
                     <label for="nome">Nome</label>
-                    <input type="nome" class="form-control" id="nome" aria-describedby="nome" placeholder="Digite seu Nome">
+                    <input type="text" class="form-control" id="nome" placeholder="Digite seu Nome">
                 </div>
                 <div class="form-group">
                     <label for="login">Login</label>
-                    <input type="login" class="form-control" id="login" aria-describedby="login" placeholder="Digite seu login">
+                    <input type="text" class="form-control" id="login" placeholder="Digite seu login">
                 </div>
                 <div class="form-group">
                     <label for="senha">Senha</label>
-                    <input type="senha" class="form-control" id="senha" aria-describedby="senha" placeholder="Digite sua senha">
+                    <input type="password" class="form-control" id="senha" placeholder="Digite sua senha">
                 </div>
-                <button type="submit" class="btn btn-info">Enviar</button>
+                <button type="submit" class="btn btn-dark">Enviar</button>
             </form>
         </div>
     </div>

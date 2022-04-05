@@ -1,0 +1,20 @@
+CRITICAL - 2022-04-03 10:00:07 --> Invalid file: undefined.php
+#0 /home/beatriz/sites/lojaVeiculosPW/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /home/beatriz/sites/lojaVeiculosPW/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /home/beatriz/sites/lojaVeiculosPW/app/Controllers/Home.php(15): view()
+#3 /home/beatriz/sites/lojaVeiculosPW/system/CodeIgniter.php(832): App\Controllers\Home->page()
+#4 /home/beatriz/sites/lojaVeiculosPW/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 /home/beatriz/sites/lojaVeiculosPW/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/beatriz/sites/lojaVeiculosPW/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /home/beatriz/sites/lojaVeiculosPW/system/Commands/Server/rewrite.php(43): require_once('/home/beatriz/s...')
+#8 {main}
+CRITICAL - 2022-04-03 10:09:29 --> Invalid file: undefined.php
+#0 /home/beatriz/sites/lojaVeiculosPW/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /home/beatriz/sites/lojaVeiculosPW/system/Common.php(1089): CodeIgniter\View\View->render()
+#2 /home/beatriz/sites/lojaVeiculosPW/app/Controllers/Home.php(15): view()
+#3 /home/beatriz/sites/lojaVeiculosPW/system/CodeIgniter.php(832): App\Controllers\Home->page()
+#4 /home/beatriz/sites/lojaVeiculosPW/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 /home/beatriz/sites/lojaVeiculosPW/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/beatriz/sites/lojaVeiculosPW/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /home/beatriz/sites/lojaVeiculosPW/system/Commands/Server/rewrite.php(43): require_once('/home/beatriz/s...')
+#8 {main}

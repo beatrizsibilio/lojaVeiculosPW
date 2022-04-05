@@ -1,34 +1,58 @@
+/*css geral*/
 body{
-    background-color: #f5fffa;
+    background-color: #E1E1E1;
 }
 
+
+/*css menu*/
+.menu{
+    background-color: #8B858B;
+
+}
+
+
+/*css home*/
 .carousel-inner{
-    margin-top: 20px;
+    margin-top: 30px;
     margin-bottom: 20px;
 }
-
-h1{
+.titulo{
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: #E1E1E1;
+    background-color: #8B858B;
+    border-radius: 40px;
+}
+.saibaMais{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: #383838;
 }
 
+
+/*css formularios*/
 .formulario{
-    margin-top: 20px;
     margin-bottom: 20px;
+    color: #383838;
 }
-
 .form-group{
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
 .btn{
    padding-left: 50px;
    padding-right: 50px;
-   color: white;
 }
 
-.menu{
-    background-color: #abdfdf;
+/*css quem somos*/
+.quemSomos{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: #383838;
+}
+
+textarea{
+    height: 100px;
 }
