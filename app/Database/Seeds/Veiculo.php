@@ -8,10 +8,10 @@ class Veiculo extends Seeder
 {
     public function run()
     {
-        $marca = ['Ford', 'Chevrolet', 'Volkswagen', 'Hyundai', 'Renault'];
-        $modelo = ['Ka', 'Camaro', 'Fusca', 'HB20', 'Kwid'];
-        $placa = ['ABC1234', 'DEF5678', 'GHI9123', 'JKL4567', 'MNO8901'];
-        $cor = ['Prata', 'Amarelo', 'Azul', 'Branco', 'Laranja'];
+        $marca = ['Chevrolet', 'Renault', 'Volkswagen', 'Hyundai', 'Fiat'];
+        $modelo = ['Onix', 'Kwid', 'Fusca', 'HB20', 'Uno'];
+        $placa = ['ABC1D23', 'EFG4H56', 'GHI9123', 'JIK5F36', 'BRA2E19'];
+        $cor = ['Vermelho', 'Preto', 'Verde', 'Branco', 'Prata'];
 
         for($x = 0; $x < 5; $x++){
             $data = [
