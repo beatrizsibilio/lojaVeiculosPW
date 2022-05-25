@@ -24,7 +24,9 @@
                         <a class="nav-item nav-link active" href="home">Home <span class="sr-only">(Página atual)</span></a>
                         <a class="nav-item nav-link" href="quemSomos">Quem Somos</a>
                         <a class="nav-item nav-link" href="contato ">Contato</a>
+                        <a class="nav-item nav-link" href="cadastroCarro">Cadastro de veículo</a>
                         <a class="nav-item nav-link" href="login">Login</a>
+                        <a class="nav-item nav-link" href="veiculo">Veículos cadastrados</a>
                         </div>
                     </div>
                 </nav>
