@@ -34,7 +34,7 @@ class Database extends Config
         'DSN'      => '',
         'hostname' => 'localhost',
         'username' => 'root',
-        'password' => '',
+        'password' => 'root',
         'database' => 'db_veiculos',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',

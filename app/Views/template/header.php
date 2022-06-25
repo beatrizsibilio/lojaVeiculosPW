@@ -27,6 +27,7 @@
                         <a class="nav-item nav-link" href="cadastroCarro">Cadastro de veículo</a>
                         <a class="nav-item nav-link" href="login">Login</a>
                         <a class="nav-item nav-link" href="veiculo">Veículos cadastrados</a>
+                        <a class="nav-item nav-link" href="pessoaCadastrada">Pessoas cadastradas</a>
                         </div>
                     </div>
                 </nav>
