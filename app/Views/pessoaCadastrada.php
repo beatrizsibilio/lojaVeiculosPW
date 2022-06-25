@@ -1,6 +1,6 @@
 <div id="menu">
     <div class="col-10 offset-1">
-    <h1> <?=$title?> </h1>
+    <h1> Pessoas </h1>
     <br>
         <table class="table">
             <tr>
@@ -8,7 +8,7 @@
                 <td>Email</td>
                 <td>Senha</td>
             </tr>
-    
+   
     <?php
         foreach($pessoas as $pessoa_item){
     ?>
